@@ -3,5 +3,5 @@
 node \
   --experimental-modules \
   --expose-wasm \
-  run.mjs
+  index.mjs
 
